@@ -20,6 +20,10 @@ The package is fully go-getable, So, just type
 
 to install.
 
+Also make sure you have `gcc` installed. On Debian/Ubuntu based systems, just type
+
+`sudo apt install gcc`
+
 ### Usage
 
 #### 1. Evaluates expressions
